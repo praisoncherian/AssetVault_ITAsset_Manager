@@ -1,0 +1,22 @@
+AssetVault/
+│
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── CHANGELOG.md
+├── SECURITY.md
+├── CODE_OF_CONDUCT.md
+├── .gitignore
+│
+├── docs/
+│   ├── INSTALL.md
+│   ├── USAGE.md
+│   ├── API_DOCUMENTATION.md
+│   └── ARCHITECTURE.md
+│
+├── config/
+│   └── .env.example
+│
+├── src/
+├── tests/
+└── requirements.txt

@@ -1,0 +1,10 @@
+# Requirements
+
+# AssetVault is built entirely on native Windows tools. No external Python or Node.js dependencies are required.
+
+# Build & Compilation Tools
+PS2EXE # (Module: `Install-Module ps2exe`)
+PowerShell 5.1+
+
+# Execution Dependencies (Local System)
+Microsoft Edge (Required for HTML-to-PDF headless rendering)
