@@ -1,0 +1,16 @@
+# PowerShell Executable and Temporary files
+*.exe
+*.dll
+*.log
+
+# Caching Directories
+$env:TEMP/IT_Asset_Cache/
+Downloads/AssetVault/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Environment
+.env
